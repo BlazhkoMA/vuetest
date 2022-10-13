@@ -9,7 +9,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "vue": "^3.2.37",
+    "ant-design-vue": "^3.2.13",
+    "vue": "^3.2.40",
     "vuex": "^4.0.2"
   },
   "devDependencies": {
